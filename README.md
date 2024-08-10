@@ -1,5 +1,6 @@
 # CODESOFT
-Project Title: Movie Genre Classification Using Machine Learning
+Project Title: Movie Genre Classification Using Machine Learning.
+
 Project Description:
 The objective of this project is to build a machine learning model that can accurately classify movie genres based on their descriptions. The project utilizes three datasets: training data, test data, and a test data solution, all of which include columns for movie ID, title, genre, and description. The main goal is to predict the genre of movies in the test set using the descriptions provided.
 
